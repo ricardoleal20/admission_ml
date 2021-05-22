@@ -30,6 +30,7 @@ external_scripts = [
                      'src': MATHJAX_CDN,
                      },
                     ])
+server=app.server
 
 app.title='Graduate Admissions - Ricardo Leal'
 
