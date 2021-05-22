@@ -1,5 +1,7 @@
-streamlit
+dash
 pandas
 numpy
-numba
 plotly
+sklearn
+dash-core-components
+dash-bootstrap-components

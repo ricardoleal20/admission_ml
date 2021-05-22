@@ -78,6 +78,7 @@ app.layout= html.Div([
             dbc.CardBody([
             html.H3('Check your probability of admission!'),
             dcc.Markdown(''' Choose some values that fit with your profile.
+                The model has an accuracity of 81.92%.
             '''),
 
             html.Div([
