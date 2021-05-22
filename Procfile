@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run admission.py
+web: gunicorn admission:server
